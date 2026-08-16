@@ -17,7 +17,7 @@
 
 | Widok 3D (Front) | Widok 3D (Back) |
 | :---: | :---: |
-| ![Front 3D](docs/front.png) | ![Back 3D](docs/back.png) |
+| ![Front 3D](docs/ProjektSPO2-Front.png) | ![Back 3D](docs/ProjektSPO2-Back.png) |
 
 ---
 
